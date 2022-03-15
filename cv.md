@@ -29,5 +29,8 @@
   * [A landing page for a photographer](https://rolling-scopes-school.github.io/zefkapuh-JSFEPRESCHOOL/portfolio/)
   * [A custom video player](https://rolling-scopes-school.github.io/zefkapuh-JSFEPRESCHOOL/portfolio/videoApp.html)
   * [Movie App](https://rolling-scopes-school.github.io/zefkapuh-JSFEPRESCHOOL/movieApp/)
-  
+1.  Education:
+    * Belarusian State Technological University, 2017, Technologist of medicines
+    * [HTMLAcademy](https://htmlacademy.ru) Basic HTML, CSS, JavaScript
+    * [RSSchool «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
 1. English level is B1.
